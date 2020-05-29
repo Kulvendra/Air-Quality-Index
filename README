@@ -1,4 +1,5 @@
-Just download and paste the Historical Data of different states of a country in CSV format.
+Just download and paste the Historical Data of different states of a country in CSV format from below link
+				https://aqicn.org/data-platform/register
 Then run the aqi.py
 	$ python3 aqi.py
 	
