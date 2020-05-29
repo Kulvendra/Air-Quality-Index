@@ -1,0 +1,7 @@
+Just download and paste the Historical Data of different states of a country in CSV format.
+Then run the aqi.py
+	$ python3 aqi.py
+	
+Required Library:
+	
+	pandas :> pip3 install pandas	
